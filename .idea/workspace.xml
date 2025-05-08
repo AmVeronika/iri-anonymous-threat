@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e17fd0e5-8775-4272-a38d-92e2e6a2c251" name="Changes" comment="Fix puddings">
+    <list default="true" id="e17fd0e5-8775-4272-a38d-92e2e6a2c251" name="Changes" comment="Fix Yandex.Metrika counter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,26 +18,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2wgBRq5WCDefC0lfXL5vQLJiU9n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,7 +53,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746453330792</updated>
-      <workItem from="1746453331970" duration="3320000" />
+      <workItem from="1746453331970" duration="3930000" />
+      <workItem from="1746519647349" duration="666000" />
+      <workItem from="1746528507908" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Edit a media query">
       <option name="closed" value="true" />
@@ -108,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746457621110</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Yandex.Metrika counter">
+      <option name="closed" value="true" />
+      <created>1746460364257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746460364257</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix Yandex.Metrika counter">
+      <option name="closed" value="true" />
+      <created>1746460754295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746460754295</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +139,8 @@
     <MESSAGE value="Edit a media query" />
     <MESSAGE value="Edit" />
     <MESSAGE value="Fix puddings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix puddings" />
+    <MESSAGE value="Add Yandex.Metrika counter" />
+    <MESSAGE value="Fix Yandex.Metrika counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Yandex.Metrika counter" />
   </component>
 </project>
