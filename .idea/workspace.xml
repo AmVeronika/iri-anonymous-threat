@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e17fd0e5-8775-4272-a38d-92e2e6a2c251" name="Changes" comment="Fix Yandex.Metrika counter">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e17fd0e5-8775-4272-a38d-92e2e6a2c251" name="Changes" comment="Изменить текст" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +51,7 @@
       <workItem from="1746453331970" duration="3930000" />
       <workItem from="1746519647349" duration="666000" />
       <workItem from="1746528507908" duration="5000" />
+      <workItem from="1746730808590" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Edit a media query">
       <option name="closed" value="true" />
@@ -129,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746460754295</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Изменить текст">
+      <option name="closed" value="true" />
+      <created>1746730852691</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746730852691</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +145,7 @@
     <MESSAGE value="Fix puddings" />
     <MESSAGE value="Add Yandex.Metrika counter" />
     <MESSAGE value="Fix Yandex.Metrika counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Yandex.Metrika counter" />
+    <MESSAGE value="Изменить текст" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменить текст" />
   </component>
 </project>
